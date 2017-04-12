@@ -8,7 +8,7 @@ public class Launcher {
     public Launcher(Printer.PrintMode mode, boolean validate, boolean generateAndPrintItemClasses) throws ParserException {
         Printer.mode = mode;
 
-        String filename = "wiki.txt";
+        String filename = "source.txt";
 
         new Parser().parse(filename);
 
