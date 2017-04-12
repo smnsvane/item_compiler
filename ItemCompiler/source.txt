@@ -1,0 +1,912 @@
+h1. List of Items
+
+* Coin
+** Metal: 1
+
+NO FUNCTION WASTE
+* Bent Pipe
+** Origin: Waste
+** Rarity: Uncommon
+** Metal: 4
+* Holed Plate
+** Origin: Waste
+** Rarity: Uncommon
+** Metal: 8
+
+RANGED WEAPONS
+* Sling
+** Weapon: Sling-Two_Hands-Impact-50-1-2
+** Magazine: 1
+* Pellet
+** Metal: 1
+** Ammunition: Sling, 1
+
+STONE
+* Rubble
+** Class: Building_Component
+** Origin: Waste
+** Rarity: Common
+* Stone
+** Class: Building_Component
+** Origin: Waste, Recipe_Product
+** Rarity: Common
+** Weapon: Thrown-Main_Hand-Impact-25-0-1
+** Tool: Hammer, 300
+** Ammunition: Sling, 0
+* Pepples
+** Class: Building_Component
+** Origin: Waste, Recipe_Product
+** Rarity: Uncommon
+* Sharpening Stone
+** Class: Sharpening_Component
+* Concrete # wet concrete
+** Class: Building_Component
+* Sand
+** Origin: Waste, Recipe_Product
+** Glass: 1
+** Rarity: Rare
+** Weapon: Thrown-Off_Hand-Blind-5-0-0
+** Class: Building_Component
+
+LIMESTONE
+* Limestone
+** Class: Building_Component
+* Quicklime
+** Class: Building_Component
+
+STATIONARY
+* Kiln
+** Stationary: 2x2
+** Class: Composite
+** Tool: Kiln, 100
+* Anvil
+** Metal: 75
+** Stationary: 1x2
+** Tool: Anvil, 100
+* Fireplace
+** Stationary: 1x1
+** Class: Composite
+** Tool: Fireplace, 100
+* Furnace
+** Stationary: 2x4
+** Tool: Furnace, 100
+* Sand Filter
+** Stationary: 2x3
+** Tool: Sand Filter, 100
+
+TOOL
+* Hammerhead
+** Metal: 1
+* Hammer
+** Tool: Hammer, 100
+** Class: Composite
+
+Blade WEAPONS
+* Broken Knife
+** Origin: Waste
+** Rarity: Rare
+** Weapon: Blade-Main_Hand-Edge-5-1-2 #worst Blade
+** Metal: 1
+* Knife
+** Weapon: Blade-Main_Hand-Edge-5-2-3
+** Class: Composite
+* Sword
+** Weapon: Blade-Main_Hand-Edge-5-3-4
+** Class: Composite
+
+ONE-HAND IMPALE WEAPONS
+* Pointy Scrap Metal
+** Origin: Waste
+** Rarity: Uncommon
+** Weapon: Pointed-Off_Hand-Impale-5-1-1 #worst Impale weapon
+** Metal: 1
+* Sharpened Scrap Metal
+** Class: Sharpening_Component
+** Weapon: Pointed-Off_Hand-Impale-5-1-2 #2nd worst Impale weapon
+** Metal: 1
+* Spike
+** Metal: 1
+* Shiv
+** Weapon: Pointed-Off_Hand-Impale-5-1-3
+** Metal: 1
+* Dart
+** Weapon: Thrown-Main_Hand-Impale-22-1-2
+** Class: Composite
+
+ONE-HAND IMPACT WEAPONS
+* Short Pipe
+** Origin: Waste
+** Rarity: Common
+** Weapon: Blunt-Main_Hand-Impact-7-0-3
+** Metal: 2
+* Short Metal Rod
+** Metal: 3
+* Metal Rod
+** Weapon: Blunt-Main_Hand-Impact-7-0-3
+** Metal: 4
+* Metal Ball
+** Metal: 3
+* Mace
+** Weapon: Blunt-Main_Hand-Impact-7-0-5
+** Class: Composite
+* Spiked Ball
+** Class: Composite
+* Morning Star
+** Weapon: Blunt-Main_Hand-Impact-7-1-6
+** Class: Composite
+
+STAFF
+* Long Pipe
+** Weapon: Staff-Two_Hands-Impact-7-0-3 #worst 2h weapon
+** Metal: 4
+** Armor: 1
+* Long Metal Rod
+** Weapon: Staff-Two_Hands-Impact-7-0-4 #better weapon than crude metal pipe
+** Metal: 6
+** Armor: 2
+* Quaterstaff
+** Weapon: Staff-Two_Hands-Impact-7-0-5
+** Metal: 18
+** Armor: 3
+
+SPEAR
+* Crude Spear
+** Metal: 6
+** Weapon: Spear-Two_Hands-Impale-10-2-4
+* Dull Spearhead
+** Class: Sharpening_Component
+** Metal: 1
+* Spearhead
+** Metal: 1
+* Spear
+** Weapon: Spear-Two_Hands-Impale-10-3-7
+** Class: Composite
+
+METAL PARTS
+* Weapon Handle
+** Metal: 2
+* Metal Plate
+** Metal: 10
+
+BLADE CONPONENTS
+* Dull Long Blade
+** Class: Sharpening_Component
+** Metal: 12
+* Long Blade
+** Metal: 12
+* Dull Knife Blade
+** Class: Sharpening_Component
+** Metal: 3
+* Knife Blade
+** Metal: 3
+
+WATERS
+* Water
+** Rarity: Uncommon
+** Origin: Waste, Recipe_Product
+** Class: Water
+** Drinkable: Hydration, Safe
+* Dirty Water
+** Origin: Waste
+** Rarity: Common
+** Class: Water
+** Drinkable: Hydration, Illness
+
+GEAR WHEELS
+* Smashed Large Gear Wheel
+** Origin: Waste
+** Rarity: Rare
+** Metal: 3
+* Smashed Small Gear Wheel
+** Origin: Waste
+** Rarity: Rare
+** Metal: 2
+* Smashed Tiny Gear Wheel
+** Origin: Waste
+** Rarity: Rare
+** Metal: 1
+* Large Gear Wheel
+** Metal: 3
+* Small Gear Wheel
+** Metal: 2
+* Tiny Gear Wheel
+** Metal: 1
+
+OIL AND ALCHEMY
+* Oil Waste
+** Class: Alchemist_Component
+** Origin: Waste
+** Rarity: Common
+* Flamable Pulp
+** Class: Alchemist_Component
+** Origin: Waste, Recipe_Product
+** Rarity: Uncommon
+* Mineral Oil
+** Class: Alchemist_Component
+* Ash
+** Class: Alchemist_Component
+* Salt
+** Class: Alchemist_Component
+
+ARMOR
+* Leather Cap
+** Wear: Helm
+** Armor: 1
+* Helm
+** Armor: 2
+** Wear: Helm
+** Metal: 10
+* Full Helm
+** Wear: Helm
+** Armor: 3
+** Metal: 10
+* Leather Armor
+** Wear: Torso
+** Armor: 3
+* Breast Plate
+** Wear: Torso
+** Armor: 5
+** Metal: 20
+* Boiled Leather Guards
+** Wear: Guards
+** Armor: 1
+* Metal Guards
+** Wear: Guards
+** Armor: 2
+** Metal: 10
+* Heavy Metal Guards
+** Wear: Guards
+** Armor: 3
+** Metal: 20
+* Crude Shield
+** Wear: Off_Hand
+** Armor: 2
+** Metal: 8
+* Shield
+** Wear: Off_Hand
+** Armor: 4
+** Metal: 15
+
+CLOTHING
+* Complete Fur Hood
+** Wear: Hood
+** Clothing: 5
+* Crude Hood
+** Wear: Hood
+** Clothing: 1
+* Fur Hood
+** Wear: Hood
+** Clothing: 2
+* Leather Hood
+** Wear: Hood
+** Clothing: 1
+* Crude Pants
+** Wear: Pants
+** Clothing: 5
+* Crude Cloak
+** Wear: Cloak
+** Clothing: 10
+* Leather Cloak
+** Wear: Cloak
+** Clothing: 10
+* Fur Cloak
+** Wear: Cloak
+** Clothing: 15
+* Pristine Fur Cloak
+** Wear: Cloak
+** Clothing: 20
+* Crude Jacket
+** Wear: Jacket
+** Clothing: 2
+* Leather Jacket
+** Wear: Jacket
+** Clothing: 5
+* Thin Leather Jacket
+** Wear: Jacket
+** Clothing: 3
+* Gloves
+** Wear: Gloves
+** Clothing: 2
+* Thick Gloves
+** Wear: Gloves
+** Clothing: 3
+* Novice Pants
+** Wear: Pants
+** Clothing: 1
+* Leather Pants
+** Wear: Pants
+** Clothing: 10
+* Crude Boots
+** Wear: Feet
+** Clothing: 2
+* Boots
+** Wear: Feet
+** Clothing: 4
+* Traveling Boots
+** Wear: Feet
+** Clothing: 5
+* Rat Boots
+** Wear: Feet
+** Clothing: 1
+* Rat Jacket
+** Wear: Jacket
+** Clothing: 1
+* Rat Cloak
+** Wear: Cloak
+** Clothing: 2
+* Rat Pants
+** Wear: Pants
+** Clothing: 1
+* Rat Hood
+** Wear: Hood
+** Clothing: 1
+
+MEAT
+* Bird Meat
+** Class: Meat
+* Spider Meat
+** Class: Meat
+* Bug Meat
+** Class: Meat
+* Rat Meat
+** Class: Meat
+* Vulpine Meat
+** Class: Meat
+* Untreated Vulpine Pelt
+** Class: Clothing_Component
+* Untreated Pristine Vulpine Pelt
+** Class: Clothing_Component
+* Mutant Meat
+** Class: Meat
+
+* Feather
+* Rat Hide
+** Class: Clothing_Component
+* Hide
+** Class: Clothing_Component
+* Leather
+** Class: Clothing_Component
+* Vulpine Pelt
+** Class: Clothing_Component
+* Pristine Vulpine Pelt
+** Class: Clothing_Component
+
+* Grinder
+** Tool: Hammer, 25
+** Stationary: 1x2
+
+CORPSES
+* Dead Rat
+** Class: Corpse
+** Origin: Loot
+* Dead Giant Rat
+** Class: Corpse
+** Origin: Loot
+* Dead Moss Picker
+** Class: Corpse
+** Origin: Loot
+* Dead Razorwing
+** Class: Corpse
+** Origin: Loot
+* Dead Black Spider
+** Class: Corpse
+** Origin: Loot
+* Dead Gray Bug
+** Class: Corpse
+** Origin: Loot
+* Dead Vulpine
+** Class: Corpse
+** Origin: Loot
+* Dead Alpha Vulpine
+** Class: Corpse
+** Origin: Loot
+* Dead Old Vulpine
+** Class: Corpse
+** Origin: Loot
+* Dead Crawler
+** Class: Corpse
+** Origin: Loot
+* Dead Breather
+** Class: Corpse
+** Origin: Loot
+* Dead Drone of the Hive
+** Class: Corpse
+** Origin: Loot
+* Dead Runner of the Hive
+** Class: Corpse
+** Origin: Loot
+* Dead Lesser Warrior of the Hive
+** Class: Corpse
+** Origin: Loot
+* Dead Warrior of the Hive
+** Class: Corpse
+** Origin: Loot
+* Dead Troll of the Hive
+** Class: Corpse
+** Origin: Loot
+
+* Roasted Bird Meat
+** Class: Meat
+** Edible: Sustenance, Safe
+* Roasted Spider Meat
+** Class: Meat
+** Edible: Sustenance, Safe
+* Roasted Bug Meat
+** Class: Meat
+** Edible: Sustenance, Safe
+* Roasted Rat Meat
+** Class: Meat
+** Edible: Sustenance, Safe
+* Roasted Vulpine Meat
+** Class: Meat
+** Edible: Sustenance, Safe
+* Roasted Mutant Meat
+** Class: Meat
+** Edible: Sustenance, Safe
+
+* Blockade
+** Stationary: 1x1
+
+h1. List of Skills
+
+Production
+* Stone Craft I #stone, pebbles, sand, sharpening stone
+** Tool: Hammer#/Grinder (cuts time to 25%) # exception for 'cleave: stone -> sharpening stone' cannot use grinder
+** Operate Kiln
+*** Tool: Kiln
+** Stone Craft II # build with rubble ex blocades, fireplace, kiln), create concrete
+*** Stone Craft III #build with concrete, Service Kiln: Limestone -> Quicklime
+
+* Metal Craft I # beat on cold metal
+** Tool: Hammer
+** Sharpening # pseudo tool: sharpening stone
+** Mechanic
+** Metal Craft II # Metalwork
+*** Forge # beat on hot metal
+**** Tool: Anvil
+*** Armorer
+**** Tool: Anvil
+
+* Water Craft
+** Tool: Sand Filter
+
+* Leather Craft I
+** Leather Craft II
+*** Leather Craft III
+*** Leather Boiling
+
+* Smelting
+
+* Cooking
+** Tool: Fireplace
+
+Combat
+* Pointed
+* Blunt
+** Blade
+* Staff
+** Spear
+* Thrown
+** Crossbow
+** Sling
+
+Survival
+* Fire Craft # create fireplace and flamables
+* Navigation # travel
+* Foraging # find mushrooms, moss
+* Scraping # find waste
+* Stealth # avoid combat when traveling, foraging and scraping
+* Sheltering # creating shelters that is not found by enemies
+* Ripper I
+** Ripper II
+*** Ripper III
+
+Leadership
+* Found Settlement # building a settlement
+* Master # attract apprentices
+* Leader # hire hirelings
+* Sergeant # plan patrols, lead in battle
+
+h1. List of Research
+
+When a research is completed the player gains use knowledge and construction knowledge of the result(s), and use knowledge of all components
+Empty source denotes that the recipe for the result(s), is known as soon as the skill is gained
+
+* Armorer:
+** Armorer: Metal Plate -> Helm
+** Armorer: Metal Plate -> Metal Guards
+** Armorer: 2x Metal Plate -> Breast Plate
+
+* Armorer: Helm
+** Armorer: Metal Plate -> Full Helm
+
+* Armorer: Metal Guards
+** Armorer: 2x Metal Plate -> Heavy Metal Guards
+
+* Blade: Knife
+** Metal Craft II: Long Blade + Weapon Handle -> Sword
+** Sharpening: Dull Long Blade + 4x Sharpening Stone -> Long Blade
+** Forge: 3x Metal Rod -> Dull Long Blade
+
+* Blunt: Metal Rod
+** Metal Craft II: Metal Ball + Metal Rod -> Mace
+** Smelting: 3x Raw Metal -> Metal Ball
+
+* Blunt: Mace
+** Metal Craft II: Spiked Ball + Metal Rod -> Morning Star
+** Metal Craft II: 12x Spike + Metal Ball -> Spiked Ball
+
+* Cooking:
+** Cooking: Bird Meat + Flamable Pulp -> Roasted Bird Meat + Ash
+** Cooking: Spider Meat + Flamable Pulp -> Roasted Spider Meat + Ash
+** Cooking: Bug Meat + Flamable Pulp -> Roasted Bug Meat + Ash
+** Cooking: Rat Meat + Flamable Pulp -> Roasted Rat Meat + Ash
+** Cooking: Vulpine Meat + Flamable Pulp -> Roasted Vulpine Meat + Ash
+** Cooking: Mutant Meat + Flamable Pulp -> Roasted Mutant Meat + Ash
+
+* Operate Kiln:
+** Operate Kiln: Limestone + Flamable Pulp -> Quicklime
+
+* Water Craft:
+** Stone Craft III: 20x Concrete + 30x Sand + 20x Pepples + 20x Stone -> Sand Filter
+** Water Craft: Dirty Water -> Water
+
+* Forge:
+** Smelting: 75x Raw Metal -> Anvil
+
+* Leather Boiling:
+** Leather Boiling: Leather -> Leather Cap
+** Leather Boiling: 2x Leather -> Leather Armor
+** Leather Boiling: Leather -> Boiled Leather Guards
+
+* Leather Craft I:
+** Leather Craft I: 3x Rat Hide -> Rat Boots
+** Leather Craft I: 6x Rat Hide -> Rat Jacket
+** Leather Craft I: 9x Rat Hide -> Rat Cloak
+** Leather Craft I: 6x Rat Hide -> Rat Pants
+** Leather Craft I: 3x Rat Hide -> Rat Hood
+** Leather Craft I: 5x Rat Hide -> Hide
+** Leather Craft I: Hide -> Crude Boots
+** Leather Craft I: 2x Hide -> Crude Jacket
+** Leather Craft I: 3x Hide -> Crude Cloak
+** Leather Craft I: 2x Hide -> Crude Pants
+** Leather Craft I: Hide -> Crude Hood
+
+* Leather Craft II:
+** Leather Craft II: 5x Ash -> Salt
+** Leather Craft II: Hide + Salt -> Leather
+** Leather Craft II: Leather -> Leather Hood
+** Leather Craft II: 3x Leather -> Leather Cloak
+** Leather Craft II: 2x Leather -> Thin Leather Jacket
+** Leather Craft II: Leather -> Gloves
+** Leather Craft II: 2x Leather -> Novice Pants
+** Leather Craft II: Leather -> Boots
+
+* Leather Craft II: Thin Leather Jacket
+** Leather Craft II: 3x Leather -> Leather Jacket
+
+* Leather Craft II: Gloves
+** Leather Craft II: Leather -> Thick Gloves
+
+* Leather Craft II: Boots
+** Leather Craft II: Leather -> Traveling Boots
+
+* Leather Craft II: Novice Pants
+** Leather Craft II: 2x Leather -> Leather Pants
+
+* Leather Craft III:
+** Leather Craft III: 3x Vulpine Pelt -> Fur Cloak
+** Leather Craft III: Untreated Vulpine Pelt + Salt -> Vulpine Pelt
+** Leather Craft III: Vulpine Pelt -> Fur Hood
+** Leather Craft III: Leather -> Sling
+
+* Leather Craft III: Fur Cloak
+** Leather Craft III: 3x Pristine Vulpine Pelt -> Pristine Fur Cloak
+
+* Leather Craft III: Vulpine Pelt
+** Leather Craft III: Untreated Pristine Vulpine Pelt + Salt -> Pristine Vulpine Pelt
+
+* Leather Craft III: Fur Hood
+** Leather Craft III: 2x Vulpine Pelt -> Complete Fur Hood
+
+* Mechanic: Smashed Tiny Gear Wheel
+** Smelting: Raw Metal -> Tiny Gear Wheel
+
+* Mechanic: Smashed Small Gear Wheel
+** Smelting: 2x Raw Metal -> Small Gear Wheel
+
+* Mechanic: Smashed Large Gear Wheel
+** Smelting: 3x Raw Metal -> Large Gear Wheel
+
+* Mechanic: Small Gear Wheel
+** Mechanic: 2x Large Gear Wheel + 2x Small Gear Wheel + 2x Tiny Gear Wheel + 5x Metal Plate + 6x Metal Rod + 2x Short Metal Rod -> Grinder
+
+* Metal Craft I: Bent Pipe
+** Metal Craft I: Bent Pipe -> Long Pipe
+
+* Metal Craft I: Holed Plate
+** Metal Craft I: Holed Plate -> Crude Shield
+
+* Metal Craft I: Pointy Scrap Metal
+** Metal Craft I: Pointy Scrap Metal -> Coin
+
+* Metal Craft II:
+** Smelting: Raw Metal -> Hammerhead
+** Metal Craft II: Hammerhead + Metal Rod -> Hammer
+** Smelting: 2x Raw Metal -> Weapon Handle
+
+* Blade: Broken Knife
+** Metal Craft II: Knife Blade + Weapon Handle -> Knife
+** Sharpening: Dull Knife Blade + 2x Sharpening Stone -> Knife Blade
+** Forge: Short Metal Rod -> Dull Knife Blade
+
+* Pointed: Pointy Scrap Metal
+** Sharpening: Pointy Scrap Metal + Sharpening Stone -> Sharpened Scrap Metal
+
+* Pointed: Sharpened Scrap Metal
+** Metal Craft I: Spike -> Shiv
+** Smelting: Raw Metal -> Spike
+
+* Sharpening:
+** Stone Craft I: Stone -> Sharpening Stone
+
+* Sling: Stone
+** Smelting: Raw Metal -> Pellet
+
+* Stone Craft I:
+** Stone Craft I: Rubble -> Stone + Pepples + Limestone
+** Stone Craft I: Stone -> Pepples
+** Stone Craft I: Pepples -> Sand
+** Stone Craft I: 10x Rubble -> Blockade
+
+* Stone Craft II:
+** Stone Craft II: 20x Rubble -> Kiln
+** Stone Craft II: Pepples + 2x Sand + Quicklime + Water -> Concrete
+
+* Smelting:
+** Stone Craft III: 20x Concrete -> Furnace
+** Smelting: Raw Metal -> Coin
+
+* Smelting: Crude Shield
+** Smelting: 15x Raw Metal -> Shield
+
+* Smelting: Holed Plate
+** Smelting: 10x Raw Metal -> Metal Plate
+
+* Smelting: Short Pipe
+** Smelting: 4x Raw Metal -> Metal Rod
+** Smelting: 3x Raw Metal -> Short Metal Rod
+
+* Smelting: Long Pipe
+** Smelting: 6x Raw Metal -> Long Metal Rod
+
+* Thrown: Shiv
+** Metal Craft II: Spike + 3x Feather -> Dart
+
+* Spear: Long Metal Rod
+** Sharpening: Long Metal Rod + 3x Sharpening Stone -> Crude Spear
+
+* Spear: Crude Spear
+** Metal Craft II: Spearhead + Long Metal Rod -> Spear
+** Smelting: Raw Metal -> Dull Spearhead
+** Sharpening: Dull Spearhead + Sharpening Stone -> Spearhead
+
+* Staff: Long Pipe
+** Forge: 3x Long Metal Rod -> Quaterstaff
+
+* Fire Craft:
+** Fire Craft: Oil Waste -> Flamable Pulp + Mineral Oil
+** Fire Craft: 15x Stone -> Fireplace
+** Fire Craft: Ash + Mineral Oil -> Flamable Pulp
+** Fire Craft: Flamable Pulp -> Ash
+
+* Ripper I:
+** Ripper I: Dead Rat -> Rat Meat + Rat Hide
+** Ripper I: Dead Giant Rat -> 2x Rat Meat + Rat Hide
+** Ripper I: Dead Moss Picker -> Bird Meat + 5x Feather
+** Ripper I: Dead Razorwing -> 2x Bird Meat + 10x Feather
+** Ripper I: Dead Gray Bug -> Bug Meat
+
+* Ripper II:
+** Ripper II: Dead Black Spider -> Spider Meat# + Black Poison Sack
+** Ripper II: Dead Vulpine -> 3x Vulpine Meat + Untreated Vulpine Pelt
+** Ripper II: Dead Alpha Vulpine -> 3x Vulpine Meat + Untreated Pristine Vulpine Pelt
+** Ripper II: Dead Old Vulpine -> 2x Vulpine Meat + Untreated Vulpine Pelt
+** Ripper II: Dead Crawler -> 3x Mutant Meat + Hide
+** Ripper II: Dead Breather -> 2x Mutant Meat + Hide
+** Ripper II: Dead Drone of the Hive -> 2x Mutant Meat + Hide
+** Ripper II: Dead Runner of the Hive -> 2x Mutant Meat + Hide #+ Small Claw
+
+* Ripper III:
+** Ripper III: Dead Lesser Warrior of the Hive -> 2x Mutant Meat + Hide # + 2x Small Claw + Mutant Plating
+** Ripper III: Dead Warrior of the Hive -> 3x Mutant Meat + Hide #+ 2x Large Claw + 2x Mutant Plating
+** Ripper III: Dead Troll of the Hive -> 4x Mutant Meat + Hide #+ 2x Large Claw + Mutant Plating
+
+h1. List of Creature Abilities
+
+* Regenerate x #(heal x health every turn)
+* Armor x #(-x flesh Attack dmg from Attacks)
+* Disease x #(x% risk of getting disease when wounded by creature)
+
+h1. List of Creatures
+
+* Scorpion
+** Attack: Poison 1-1
+** Move: Slow
+** CEP: 2
+** Health: 2
+
+* Common Rat
+** Attack: Flesh 1-1
+** Move: Normal
+** Loot: Dead Rat
+** Abilities: Disease 2
+** CEP: 2
+** Health: 2
+
+* Diseased Rat
+** Attack: Flesh 1-1
+** Move: Normal
+** Loot: Dead Rat
+** Abilities: Disease 10
+** CEP: 3
+** Health: 2
+
+* Giant Rat
+** Attack: Flesh 1-2
+** Move: Normal
+** Loot: Dead Giant Rat
+** Abilities: Disease 2
+** CEP: 5
+** Health: 4
+
+* Moss Picker
+** Move: Very Fast #flying but just implement as Fast moving
+** Loot: Dead Moss Picker
+** Health: 1
+** CEP: 1
+
+* Razorwing
+** Comment: Bird of prey, primarily hunts rats and moss pickers
+** Move: Very Fast #flying but just implement as Fast moving
+** Attack: Flesh 1-5
+** Loot: Dead Razorwing
+** CEP: 10
+** Health: 4
+
+* Black Spider
+** Comment: It is said that these creatures were once much smaller
+** Move: Climb #can scale walls
+** Attack: Poison 1-3
+** Loot: Dead Black Spider
+** CEP: 25
+** Health: 5
+
+* Gray Bug
+** Move: Slow
+** Attack: Flesh 0-1
+** Loot: Dead Gray Bug
+** CEP: 1
+** Health: 1
+
+* Vulpine
+** Move: Fast
+** Attack: Flesh 2-3
+** Abilities: Disease 1
+** Loot: Dead Vulpine
+** Health: 6
+
+* Alpha Vulpine
+** Comment: The vulpine pack leader; always followed by other vulpines
+** Move: Fast
+** Attack: Flesh 2-4
+** Abilities: Disease 1
+** Loot: Dead Alpha Vulpine
+** Health: 7
+
+* Old Vulpine
+** Attack: Flesh 1-3
+** Move: Normal
+** Abilities: Disease 1
+** Loot: Dead Old Vulpine
+** Health: 5
+
+* Crawler
+** Attack: Flesh 1-3
+** Move: Slow
+** Loot: Dead Crawler
+** CEP: 30
+** Health: 6
+
+* Breather
+** Attack: Burn 2-4
+** Loot: Dead Breather
+** CEP: 35
+** Health: 6
+
+* Drone of the Hive
+** Attack: Flesh 1-1
+** Move: Slow
+** Loot: Dead Drone of the Hive
+** CEP: 15
+** Health: 5
+
+* Runner of the Hive
+** Attack: Flesh 2-3
+** Move: Fast
+** Loot: Dead Runner of the Hive
+** CEP: 50
+** Health: 4
+
+* Lesser Warrior of the Hive
+** Attack: Flesh 2-4
+** Move: Normal
+** Abilities: Armor 1
+** Loot: Dead Lesser Warrior of the Hive
+** CEP: 50
+** Health: 6
+
+* Warrior of the Hive
+** Attack: Flesh 3-6
+** Move: Slow
+** Abilities: Armor 2
+** Loot: Dead Warrior of the Hive
+** CEP: 100
+** Health: 10
+
+* Troll of the Hive
+** Attack: Flesh 4-6
+** Move: Slow
+** Abilities: Armor 1, Regenerate 1
+** Loot: Dead Troll of the Hive
+** CEP: 200
+** Health: 12
+
+h1. List of Creature Tactics
+
+* Strike-and-Flee
+* Coward
+* Mindless
+* Aggresive
+* Supra-Aggresive
+
+h1. List of Creature Groups
+
+* Bird of Pray
+** 1 Razorwing, Strike-and-Flee
+
+* Bird Flock
+** 2-5 Moss Picker, Coward
+
+* Crawlers
+** 2 Crawler, Mindless
+
+* Breathers
+** 2-3 Breather, Mindless
+
+* Bug Swarm
+** 4-5 Gray Bug, Mindless
+
+* Lone Vulpine
+** 1 Old Vulpine, Aggresive
+
+* Vulpine Pack
+** 1 Alpha Vulpine, Aggresive
+** 2-3 Vulpine, Aggresive
+
+* Scout Group
+** 1-2 Runner of the Hive, Strike-and-Flee
+
+* Work Group
+** 3-5 Drone of the Hive, Mindless
+
+* Skirmish Group
+** 2-3 Lesser Warrior of the Hive, Supra-Aggresive
+
+* Battle Group
+** 3 Warrior of the Hive, Supra-Aggresive
+
+* War Band
+** 0-1 Troll of the Hive, Supra-Aggresive
+** 2 Warrior of the Hive, Supra-Aggresive
+** 2-3 Lesser Warrior of the Hive, Supra-Aggresive
